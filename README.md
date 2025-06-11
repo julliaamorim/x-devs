@@ -25,8 +25,8 @@ A proposta foi desenvolver um site simples, com foco no visual e na estruturaç�
 
 * ⚙️ **HTML5**
 * 🎨 **CSS3**
-* 💻 **JavaScript (opcional, dependendo das interações)**
-* 🌐 **GitHub Pages** (para deploy)
+* 💻 **JavaScript**
+* 🌐 **GitHub Pages** 
 
 ---
 
